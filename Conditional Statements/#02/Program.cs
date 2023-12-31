@@ -6,6 +6,8 @@ namespace _02
     {
         static void Main(string[] args)
         {
+            //2.Write a C# Sharp program to check whether a given number is even or odd.
+
             int num, rem;
 
             Console.Write("Input number: ");

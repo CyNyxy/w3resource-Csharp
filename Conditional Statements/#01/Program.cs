@@ -6,6 +6,8 @@ namespace _01
     {
         static void Main(string[] args)
         {
+            //1. Write a C# Sharp program to accept two integers and check whether they are equal or not.
+
             Console.Write("Input 1st number: ");
             int a = Int32.Parse(Console.ReadLine());
 
